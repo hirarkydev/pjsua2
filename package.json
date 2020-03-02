@@ -1,0 +1,23 @@
+{
+  "name": "pjsua2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirarkydev/pjsua2.git"
+  },
+  "author": "Hirarky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirarkydev/pjsua2/issues"
+  },
+  "homepage": "https://github.com/hirarkydev/pjsua2#readme",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "node-addon-api": "^2.0.0"
+  }
+}
